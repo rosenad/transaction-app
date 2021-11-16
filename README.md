@@ -22,3 +22,4 @@ Things to add (if time):
 - Typescript
 - validation for input (error handling and user update when invalid input is submitted)
 - add more logging
+- add security for db password
