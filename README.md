@@ -18,7 +18,7 @@ TO DO:
 - separate customer and transaction schema
 - switch to SQL database with separate customer and transaction tables
 - add navigation bar or buttons with links to create new customers or new transactions
-- clean up react design
+(- improve design)
 - Typescript
 - validation for input (error handling and user update when invalid input is submitted)
 - add more logging
