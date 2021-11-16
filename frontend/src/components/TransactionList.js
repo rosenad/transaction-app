@@ -15,6 +15,18 @@ class TransactionList extends Component {
                 />
                 <hr />
                 <table>
+                <tr>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Email</th>
+                <th>Street</th>
+                <th>City</th>
+                <th>Country</th>
+                <th>Price</th>
+                <th>Currency</th>
+                <th>Credit Card Type</th>
+                <th>Credit Card Number</th>
+                </tr>
                     <tbody>
                         {this.state.transactions.map((item, index) => {
                             return <tr key={index}>
