@@ -14,7 +14,7 @@ Docker Compose is included with Docker Desktop. If you don't have Docker Compose
 Once the container is built and running, visit http://localhost:3000 in your web browser to view the project
 
 
-Things to add (if time):
+TO DO:
 - separate customer and transaction schema
 - switch to SQL database with separate customer and transaction tables
 - add navigation bar or buttons with links to create new customers or new transactions
